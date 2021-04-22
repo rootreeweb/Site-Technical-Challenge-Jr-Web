@@ -9,14 +9,16 @@
 ![image](https://user-images.githubusercontent.com/714113/109702102-cd385f80-7b61-11eb-9e37-a418b6ada06f.png)
 
 ### The Requirements:
-* All mouseover effects need to work.
-* The only click events that need to work are switching between posts and tags and the search field at the top (the search form does not need to be able to actually search).
+* All mouseover effects need to work. (Links, Images, etc.)
+* The only click events that need to work are switching between posts, tagged(IGTV is not required) and the search field at the top (the search form does not need to be able to actually search).
 * The image order, as well as the like and comment counts for each photo, should be randomized.
-* The language select at the bottom of the page does not need to be functional, but does need to be populated.
+* The language select at the bottom of the page does not need to change the language of the page, but does need to be populated and selectable.
 ![image](https://user-images.githubusercontent.com/714113/109703086-1210c600-7b63-11eb-875b-0e3002c86c0a.png)
 * The page design must be responsive.
 * You do not need to take users with JavaScript turned off into account.
 * The dark mode does not need to be persistent (using cookies, etc).
+* Dark mode does not need to persist across browser refresh.
+* Display an improvement of the User Experience on the Instagram Profile page.
 
 ### How to Submit:
 * Please clone this repository and then complete your challenge.
@@ -46,4 +48,4 @@ hours, please let us know if you need additional time to complete the challenge.
 Please reach out to us and we would be happy to answer them.
 
 ## Note
-We are not affiliated with Facebook, Inc. and we have no intentions of selling your solution to them.
+We are not affiliated with Facebook, Inc. and we have no intentions of selling your solution to them or using it for our own purposes, other than getting a better understanding of your specific skillset.
