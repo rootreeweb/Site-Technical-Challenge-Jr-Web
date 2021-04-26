@@ -24,7 +24,7 @@
 * Please clone this repository and then complete your challenge.
 * Please send your local repository as a zip file containing the all of the required assets to the email provided in the instructions.
 * Feel free to modify the existing HTML as you see fit.
-* Note: Please do not fork or submit a pull request as your submission will be visible to other candiates if you do.
+* Note: Please do not fork or submit a pull request as your submission will be visible to other candidates if you do.
 
 ## Present your solution:
 * Present your solution using resources/media available to you PowerPoint, PDF, etc.
@@ -36,7 +36,7 @@ process, and the programs/languages/technology behind your solution.
 * Code quality
 * Efficiency of solution
 * Organization
-* Overal creativity
+* Overall creativity
 * Presentation of solution
 
 ## Key Deadlines:
@@ -44,7 +44,17 @@ If possible, we’d love to see something within one week from receipt of the ch
 Understanding that this is something you’re doing on your own time, outside of work
 hours, please let us know if you need additional time to complete the challenge.
 
-## Any Questions?
+## Frequently Asked Questions:
+### Q. Can I make dark mode persistent to improve UX?
+A. It is not a requirement that we will be judging on.
+
+### Q. Do I need to show the icon for video/carousel posts?
+A. No you do not.
+
+### Q. Does the responsive nature of the existing Instagram site need to be replicated?
+A. You are free to implement your own version of a responsive layout if you feel that there are improvements that can be made.
+
+## Any Other Questions?
 Please reach out to us and we would be happy to answer them.
 
 ## Note
