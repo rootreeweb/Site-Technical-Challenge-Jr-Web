@@ -54,8 +54,14 @@ A. No you do not.
 ### Q. Does the responsive nature of the existing Instagram site need to be replicated?
 A. You are free to implement your own version of a responsive layout if you feel that there are improvements that can be made.
 
+### Q. Do I need to make the liking and comment systems work?
+A. The thumbnails only need to display a randomized count of likes and comments. They do not need to work.
+
+### Q. Do I need to redesign all of Instagram?
+A. we would like to see at least one UX improvement that you think would benefit the Instagram website. You do not have to redesign Instagram, other than giving it a dark mode.
+
 ## Any Other Questions?
 Please reach out to us and we would be happy to answer them.
 
 ## Note
-We are not affiliated with Facebook, Inc. and we have no intentions of selling your solution to them or using it for our own purposes, other than getting a better understanding of your specific skillset.
+We are not affiliated with Facebook, Inc. and we have no intentions of selling your solution to them or using it for our own purposes, other than getting a better understanding of your specific skill set.
